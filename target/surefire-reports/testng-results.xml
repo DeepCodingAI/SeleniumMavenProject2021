@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-25T21:13:29 EDT" name="Amazon Test Script" finished-at="2021-03-25T21:13:49 EDT" duration-ms="20657">
+    <groups>
+    </groups>
+    <test started-at="2021-03-25T21:13:29 EDT" name="Amazon Home" finished-at="2021-03-25T21:13:49 EDT" duration-ms="20657">
+      <class name="landingpage.Search">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:landingpage.Search@4ae3c1cd]" started-at="2021-03-25T21:13:29 EDT" name="setUp" finished-at="2021-03-25T21:13:43 EDT" duration-ms="13939" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="search()[pri:0, instance:landingpage.Search@4ae3c1cd]" started-at="2021-03-25T21:13:43 EDT" name="search" finished-at="2021-03-25T21:13:49 EDT" duration-ms="6544" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:landingpage.Search@4ae3c1cd]" started-at="2021-03-25T21:13:49 EDT" name="cleanUp" finished-at="2021-03-25T21:13:49 EDT" duration-ms="125" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- landingpage.Search -->
+    </test> <!-- Amazon Home -->
+  </suite> <!-- Amazon Test Script -->
+</testng-results>
